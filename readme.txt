@@ -5,11 +5,9 @@ Requires at least: 2.8.0
 Tested up to: 3.0.1
 Stable tag: trunk
 
-== Description ==
-
 An advanced 360 product viewer. Fully XML customizable, without using Flash. And it's free!
 
-= Main features =
+== Description ==
 
 You can integrate it in any website for free without even using Flash. The rotation speed is customizable and can be set to autoplay. The controls (navigation, zoom in/out, play/pause) have customizable skins. It has the possibility to use HTML/CSS formated text and there are different properties for reflection. There are other customizable properties on the Live Demo.
 
