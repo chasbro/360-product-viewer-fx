@@ -5,7 +5,7 @@ Requires at least: 2.8.0
 Tested up to: 3.0.1
 Stable tag: trunk
 
-An advanced 360 product viewer. Fully XML customizable, without using Flash. And it's free!
+An advanced 360 Product Viewer. Fully XML customizable without any Flash knowledge. And it's free!
 
 == Description ==
 
