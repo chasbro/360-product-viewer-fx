@@ -37,7 +37,7 @@ To make it work with PHP4, add `[360-product-viewer-fx width="600" height="300"]
 
 = Getting rid of the FlashXML.net label =
 
-To remove the FlashXML.net label from the top-left corner you'll need to buy the [commercial archive](http://www.flashxml.net/360-product-viewer.html#swmi-license "360 Product Viewer FX"). Once you'll do that, simply use the SWF file from the commercial archive to overwrite the SWF file from the `wp-content/flashxml/360-product-viewer-fx/` folder.
+To remove the FlashXML.net label from the top-left corner you'll need to buy the [paid package](http://www.flashxml.net/360-product-viewer.html "360 Product Viewer FX"). Once you'll do that, simply use the SWF file from the paid package to overwrite the SWF file from the `wp-content/flashxml/360-product-viewer-fx/` folder.
 
 == Screenshots ==
 
