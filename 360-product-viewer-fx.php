@@ -79,7 +79,7 @@ License: GPL2
 	}
 
 	function productviewerfx_echo_embed_code($settings_xml_path = '', $div_text = '', $width = 0, $height = 0) {
-		echo productviewerfx_get_embed_code(array(2 => $settings_xml_path, 3 => $div_text, 4 => $width, 6 => $height));
+		echo productviewerfx_get_embed_code(array(2 => $settings_xml_path, 7 => $div_text, 4 => $width, 6 => $height));
 	}
 
 	function productviewerfx_load_swfobject_lib() {
