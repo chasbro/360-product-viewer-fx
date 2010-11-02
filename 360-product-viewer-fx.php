@@ -3,7 +3,7 @@
 Plugin Name: 360 Product Viewer FX
 Plugin URI: http://www.flashxml.net/360-product-viewer.html
 Description: An advanced 360 Product Viewer. Fully XML customizable without any Flash knowledge. And it's free!
-Version: 0.2.8
+Version: 0.2.9
 Author: FlashXML.net
 Author URI: http://www.flashxml.net/
 License: GPL2
@@ -47,7 +47,7 @@ License: GPL2
 			'height' => $height,
 			'text' => isset($productviewerfx_attributes[7]) ? trim($productviewerfx_attributes[7]) : '',
 			'component_path' => WP_CONTENT_URL . "/{$plugin_dir}/",
-			'swf_name' => '360viewer.swf',
+			'swf_name' => '360ProductViewerFX.swf',
 		);
 		$swf_embed['swf_path'] = $swf_embed['component_path'].$swf_embed['swf_name'];
 
